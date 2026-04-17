@@ -1,20 +1,14 @@
-<!--SUBZERO V7 FINAL || DO NOT COPY MY README WITHOUT CREDITS-->
+!--SUBZERO V7 FINAL || DO NOT COPY MY README WITHOUT CREDITS-->
 
 <div align="center">
 
-<img src="https://mrfrankk-cdn.hf.space/media/subzero/sublogo.png" width="100%" style="border-radius:12px;" />
+<img src="https://devaboodi-cdn.hf.space/media/subzero/sublogo.png" width="100%" style="border-radius:12px;" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=22&duration=3000&pause=800&color=00CFFF&center=true&vCenter=true&width=600&lines=⚡+SUBZERO+MD+V7+IS+HERE;BUILT+BY+MR+FRANK+OFC+🇿🇼;THE+COLDEST+BOT+ON+WHATSAPP;FORK+%26+DEPLOY+IN+MINUTES)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=22&duration=3000&pause=800&color=00CFFF&center=true&vCenter=true&width=600&lines=⚡+SUBZERO+MD+V7+IS+HERE;BUILT+BY+MR+ABOODI+THE+🇸🇩THEE+COLDEST+BOT+ON+WHATTHE+DEPLOY+IN+MINUTES)](https://git.io/typing-svg)
 
-<br/>
-
-[![GitHub](https://img.shields.io/badge/mrfrank-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrfr8nk)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mrfr4nk)
-[![WhatsApp](https://img.shields.io/badge/Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb7D70MI7BeC0xUnKb05)
-
-<br/>
+<br/> 
 
 [![Followers](https://img.shields.io/github/followers/mrfr8nk?style=flat-square&color=00cfff&label=Followers)](https://github.com/mrfr8nk/followers)
 [![Stars](https://img.shields.io/github/stars/mrfrankofcc/SUBZERO-MD?style=flat-square&color=00cfff&label=Stars)](https://github.com/mrfrankofcc/SUBZERO-MD/stargazers)
@@ -34,7 +28,7 @@
 
 ## 🧊 What is SubZero MD?
 
-**SubZero MD V7** is a powerful, multi-platform WhatsApp bot built on [Baileys](https://www.npmjs.com/package/angularsockets) — engineered for speed, stability, and style. Packed with features, deployable anywhere, and maintained by **MR FRANK OFC 🇿🇼**.
+**SubZero MD V7** is a powerful, multi-platform WhatsApp bot built on [Baileys](https://www.npmjs.com/package/angularsockets) — engineered for speed, stability, and style. Packed with features, deployable anywhere, and maintained by **Dev ABOODI sD 🇸🇩**.
 
 ---
 
@@ -121,7 +115,7 @@ npm start
 
 <div align="center">
 
-**《 POWERED BY MR FRANK OFC 🇿🇼 》**
+**《 DEV ABOODI SD 🇸🇩 •**
 
 <img src='https://i.imgur.com/LyHic3i.gif' width="60%"/>
 
